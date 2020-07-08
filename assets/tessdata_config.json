@@ -3,6 +3,7 @@
     "eng.traineddata",
     "OCRB.traineddata",
     "pdf.ttf",
-    "financial.traineddata"
+    "financial.traineddata",
+    "jpn.traineddata"
   ]
 }
